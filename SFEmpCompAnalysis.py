@@ -11,7 +11,7 @@ import seaborn as sns
 import statsmodels.api as sn
 from sklearn.linear_model import LinearRegression
 
-#The SQL Connection databased and username were removed for privacy purposes.
+#The SQL Connection database's username and password were removed for privacy purposes.
 #This creates the directory all the graphs will be saved under
 os.mkdir('SFEmpComp')
 
