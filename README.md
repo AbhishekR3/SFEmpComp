@@ -1,5 +1,5 @@
 Project name: 
-Future SanFrancisco City Job Market 
+Future San Francisco City Job Market 
 
 Description: 
 An analysis of the effects of Covid-19 on jobs and organizations and understanding the future labor force.
