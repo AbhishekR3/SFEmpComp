@@ -6,4 +6,4 @@ An analysis of the effects of Covid-19 on jobs and organizations and understandi
 
 Softwares Used: 
 The code was written with Python using libraries: os, seaborn, matplotlib, pandas, numpy, statsmodels, and sklearn.
-Inside the code we created dataframes using SQL with python's psycopg2 library.
+In the code we created dataframes using SQL along with python's psycopg2 library.
