@@ -10,6 +10,9 @@ https://data.sfgov.org/City-Management-and-Ethics/Employee-Compensation/88g8-5mn
 Description:
 An analysis of the effects of Covid-19 on jobs and organizations and understanding the future labor force.
 
+Analysis:
+https://medium.com/@Abhishek3/future-of-san-francisco-job-market-41c1ee9be07a
+
 Softwares Used:
 The code was written with Python using libraries: os, seaborn, matplotlib, pandas, numpy, statsmodels, and sklearn.
 In the code we created dataframes using SQL along with python's psycopg2 library.
